@@ -35,7 +35,7 @@
 
 ### [ビルドガイド](doc/BuildGuide.md)
 
-### [3Dモデルデータのダウンロード](https://makerworld.com/en/@ShiniNet)
+### [3Dモデルデータのダウンロード](https://makerworld.com/en/models/1492146-keyboard-cases-for-lalapad-mini#profileId-1559844)
 
 ## 工事設計認証(技適)番号
 - 使用するMCUモジュール販売元の記載をご確認ください
