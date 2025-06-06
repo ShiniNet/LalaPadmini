@@ -7,6 +7,11 @@
 
 ![image](https://github.com/user-attachments/assets/9466a2f0-c5ac-449b-91a9-054fd53ad1d1)
 
+![image](https://github.com/user-attachments/assets/88be7288-8eaa-4805-a070-5de109a7750d)
+
+
+
+
 <br/><br/>
 本キーボードは[LalaPad](https://github.com/ShiniNet/LalaPad)の特徴を踏襲しつつ、さらなる小型化を目指した左右分割型無線トラックパッドキーボードです！
 <br/>
@@ -38,10 +43,11 @@
 
 ## SIG認証について
 - 本商品は使用できる状態の無線モジュールを含まない自作キットですので、基本的には認証の対象外となります。  
-  
+
+<br/><br/>
   
 ## 使い方
-### [基本的なZMKキーボードの使い方](doc/HowToUse.md)
+### [基本的なキーボードの使い方](doc/HowToUse.md)
 
 ### デフォルトキーマップ
 - デフォルトレイヤー（Windows向け）
