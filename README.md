@@ -45,8 +45,8 @@
 
 <br/><br/>
   
-## 使い方
-### [基本的なキーボードの使い方](doc/HowToUse.md)
+## 使い方・機能
+### [キーボードの使い方/キーマップの変更](doc/HowToUse.md)
 
 ### デフォルトキーマップ
 - デフォルトレイヤー（Windows向け）
@@ -62,33 +62,6 @@
 - カーソル操作でマウスレイヤーに自動切替
 - マウススクロールモード
 - 低速モード
-
-
-### キーマップの変更
-- [キーコード一覧](https://zmk.dev/docs/keymaps/list-of-keycodes)
-#### [ZMK Studio（ベータ版）](https://zmk.studio/)を使用
-- Webブラウザ上で簡単に編集可能（USB経由)
-- ネイティブアプリ版を使えば無線接続のまま編集可能
-- ファームウェアのビルド不要
-
-　参考：[ZMK Studio - ZMK Firmwear Docs](https://zmk.dev/docs/features/studio)
-
-#### [KeymapEditor](https://nickcoutsos.github.io/keymap-editor/)を使用
-- Webブラウザ上で簡単に編集可能
-- ZMK Studioより詳細な設定が可能
-- ファームウェアをビルドする為にGitHubアカウントが必要です
-
-　[KeymapEditorの使い方](https://github.com/ShiniNet/LalaPad/blob/main/doc/KeymapEdit.md)<br/>
- 　
-
-### ファームウェアを直接カスタマイズ
-- ZMKの全ての機能を利用できます（独自のマクロ追加など）
-- キーボードのプロパティを変更できます（トラックパッドのドライバ変更やスリープ時間の閾値調整等）
-- 若干のC言語+DeviceTreeの知識が必要です
-
-　[ファームウェアを直接変更する方法](https://github.com/ShiniNet/LalaPad/blob/main/doc/EditFirmwareDirectly.md)<br/>
- 
-　参考：[ZMK Firmwear Docs](https://zmk.dev/docs/config)<br/>
 
 <br/><br/>
 
