@@ -1,3 +1,6 @@
+
+## 基本的なキーボードの使い方
+
 ### 電源の入れ方、充電方法
 
 - 電源スイッチをON（奥行き側）にするか、USB-Cケーブルをマイコンに接続すると起動します。
@@ -23,3 +26,42 @@
 
 #### レイヤー状態（レイヤー変更時）
 - [右手側]🔵点滅：アクティブにしたレイヤー番号に応じて点滅します。
+
+<br><br>
+
+## キーマップの変更
+LalaPadはZMKファームウェアの搭載により、すべてのキースイッチ及びロータリーエンコーダに対する動作をユーザーが独自に編集することができます。
+指定可能なキーコードや細かい振舞い等の具体的な内容については以下よりご確認いただけます。
+
+- [キーコード一覧](https://zmk.dev/docs/keymaps/list-of-keycodes)
+- [behavior一覧](https://zmk.dev/docs/keymaps/behaviors)
+  
+### [ZMK Studio（ベータ版）](https://zmk.studio/)を使用
+- Webブラウザ上で簡単に編集可能（USB経由)
+- ネイティブアプリ版を使えば無線接続のまま編集可能
+- ファームウェアのビルド不要
+
+　参考：[ZMK Studio - ZMK Firmwear Docs](https://zmk.dev/docs/features/studio)
+
+### [KeymapEditor](https://nickcoutsos.github.io/keymap-editor/)を使用
+- Webブラウザ上で簡単に編集可能
+- ZMK Studioより詳細な設定が可能
+- ファームウェアをビルドする為にGitHubアカウントが必要です
+
+　[KeymapEditorの使い方](https://github.com/ShiniNet/LalaPad/blob/main/doc/KeymapEdit.md)<br/>
+ 　
+
+### ファームウェアを直接カスタマイズ
+- ZMKの全ての機能を利用できます（独自のマクロ追加など）
+- キーボードのプロパティを変更できます（トラックパッドのカーソル速度変更やスリープ時間の閾値調整等）
+- 若干のC言語+DeviceTreeの知識が必要です
+
+　[ファームウェアを直接変更する方法](https://github.com/ShiniNet/LalaPad/blob/main/doc/EditFirmwareDirectly.md)<br/>
+ 
+　参考：[ZMK Firmwear Docs](https://zmk.dev/docs/config)<br/>
+
+> [!WARNING]
+> - iPhoneやiPadなどIOS端末によるファームウェアのキーボードへの直接の書き込みは対応していませんので（Xiao仕様）、PCかAndroid端末を使用する必要があります。
+> - ZMK Studioなどファームウェアの書き換えを伴わないシステムであれば、IOS完結でキーマップの変更可能です。
+
+<br/><br/>
