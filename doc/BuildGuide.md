@@ -89,6 +89,11 @@
 ### ロータリーエンコーダーのはんだづけ
 - PCBの表面からエンコーダーを差し込み、裏面から5か所はんだづけします。
 ### マイコンにFPCコンバーターのはんだづけ
+取り付け方の動画を用意しました。
+https://youtu.be/duvtfUjUrcw
+![Timeline 1_01_00_24_07](https://github.com/user-attachments/assets/38b665d8-88cf-4b73-ad59-e3f4ff8a0860)
+
+
 ### 基板へトラックパッドとエンコーダーを接続する
 
 <br><br>
