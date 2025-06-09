@@ -35,8 +35,10 @@
 
 ### [ビルドガイド](doc/BuildGuide.md)
 
-### [3Dモデルデータのダウンロード](https://makerworld.com/en/models/1492146-keyboard-cases-for-lalapad-mini#profileId-1559844)
-
+### 3Dモデルデータのダウンロード
+- [キーボードケース](https://makerworld.com/en/models/1492146-keyboard-cases-for-lalapad-mini#profileId-1559844)
+- [キーキャップ](https://makerworld.com/en/models/1500836-choc-v2-ultra-thin-keycaps-17mm#profileId-1570006)
+  
 ## 工事設計認証(技適)番号
 - 使用するMCUモジュール販売元の記載をご確認ください
 
