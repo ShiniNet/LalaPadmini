@@ -126,24 +126,58 @@ https://youtu.be/duvtfUjUrcw
 
 ## 動作確認
 ### マイコンへファームウェアの書き込み
-- GitHUBに公開しているベースファームウェア（.uf2）をダウンロードします。
-- キーボードとPCをUSBに接続した状態でマイコンのリセットボタンを2回連打します。
+- GitHUBに公開している[ベースファームウェア（.uf2）](https://github.com/ShiniNet/LalaPadmini/tree/main/firmware)をダウンロードします。
+![2025-06-09_07h39_37](https://github.com/user-attachments/assets/4efdb119-3a3a-4a85-aacf-ba5e69d6e12e)
+  
+- マイコンとPCをUSBに接続した状態でマイコンのリセットボタンを2回連打します。
 ![IMG_20250609_054802](https://github.com/user-attachments/assets/b1f9d9be-bc8b-4c36-8d09-8151a3ac693e)
 
+- 正しく操作できていればPC側にマイコンのフォルダ(XIAO-SENSE)が表示されるので、先ほどダウンロードした.uf2ファイル（右側には"lalapadmini_right_xxxx.uf2"、左側には"lalapadmini_left_xxxx.uf2"のファイル）を１つずつコピーペーストします。
+- UF2ファイルが書き込まれると自動的にフォルダが閉じられ、マイコンが再起動し緑のランプが点灯します。
+  
+![2025-06-09_07h46_26](https://github.com/user-attachments/assets/7a682c3d-f3f5-4783-9d8a-9b397db1321a)
 
 <br><br>
 
 ### 基板へマイコン（FPC）の取り付け
+
+![IMG_20250609_055843](https://github.com/user-attachments/assets/c960d5ed-59a5-4ac5-98eb-73deaf0d0acf)
+
+<br><br>
+
 ### 動作確認（USB）
 - FPCが破損しやすいのでUSBやFPCソケットへの抜き差しは慎重に。デバッグ中は主にPC側のUSBを抜き差しすることを推奨。
+- ピンセット等でキーソケット部分を導通させ、キーの入力を確認します。
+- 任意の[キーボード入力テスト用のWEBサイト](https://www.onlinemictest.com/ja/keyboard-test/)にて、動作確認を行います。
+- 全ての物理キーが正しく判定されることを確認してください。
+- トラックパッドによるポインタ操作、エンコーダーによるスクロールができることを確認してください。
+
+> [!WARNING]
+> - 左手側を単独でテストすることはできませんので、右手側を先に起動した状態で左手側を起動しテストしてください。USB-Cケーブルが2本必要です。
+
+> [!TIP]
+> - 動作に問題がある場合、[組立のトラブルシューティング]()を参考にしてください。
+
+![IMG_20250609_055740](https://github.com/user-attachments/assets/6c8efc35-237c-43df-820f-b43a30a9b9c0)
+![2025-06-09_07h55_52](https://github.com/user-attachments/assets/f5ec6655-044c-4837-86f5-0ee3122681bf)
+
+
 ### 動作確認（バッテリー）
-- スイッチはマイコン側がON
-- 動作確認が済んだらトラックパッドとエンコーダーはFFCから外しておく。
+- 基板にバッテリーを接続し、電源をONにして同様に動作チェックをします。
+- スイッチはマイコン側がON、その反対がOFFです。
+![IMG_20250609_060353](https://github.com/user-attachments/assets/0866e1eb-09d6-46e6-84bf-2b21757d5dc6)
+
+
+- 動作確認が済んだらトラックパッドとエンコーダーはFFCから外しておきます。
+![IMG_20250609_060736](https://github.com/user-attachments/assets/e9d0f5fb-2505-465e-892b-a670d02dfa6b)
 
 <br><br>
 
 ## キーボードの組み立て
 ### 基板にトッププレートとキースイッチを装着する
+![2025-06-09_08h02_00](https://github.com/user-attachments/assets/2a48defb-5fbb-41b1-ad75-2e94f8905eda)
+
+
 ### ボトムケースにマグネットとTPUマウントと基板とスイッチカバーを取り付ける
 ### トップケースを取り付ける
 ### マイコンカバーを取り付ける
