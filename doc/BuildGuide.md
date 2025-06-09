@@ -136,6 +136,7 @@ https://youtu.be/duvtfUjUrcw
 
 - 正しく操作できていればPC側にマイコンのフォルダ(XIAO-SENSE)が表示されるので、先ほどダウンロードした.uf2ファイル（右側には"lalapadmini_right_xxxx.uf2"、左側には"lalapadmini_left_xxxx.uf2"のファイル）を１つずつコピーペーストします。
 - UF2ファイルが書き込まれると自動的にフォルダが閉じられ、マイコンが再起動し緑のランプが点灯します。
+- 接続したPC側にはデバイス名"lalapadmini"として認識されます。
 
   ![2025-06-09_08h51_04](https://github.com/user-attachments/assets/9d76e2c9-7947-4eaa-9873-a6acdb5cf8d7)
 
@@ -183,18 +184,25 @@ https://youtu.be/duvtfUjUrcw
 ### 基板にトッププレートとキースイッチを装着する
 ![2025-06-09_08h02_00](https://github.com/user-attachments/assets/2a48defb-5fbb-41b1-ad75-2e94f8905eda)
 
+### キーボードケースの組み立て
 
-### ボトムケースにマグネットとTPUマウントと基板とスイッチカバーを取り付ける
-### トップケースを取り付ける
-### マイコンカバーを取り付ける
+### エンコーダーにカバーを取り付ける
+![2025-06-09_10h52_11](https://github.com/user-attachments/assets/5d588d6b-507f-46ad-81d7-ff362c84e8c3)
+
 ### トラックパッドとエンコーダーをケースに取り付ける
+![2025-06-09_11h14_02](https://github.com/user-attachments/assets/f7b1d216-1fd9-4630-85de-60d53af3a4cf)
+![2025-06-09_11h17_37](https://github.com/user-attachments/assets/c92f77f8-4076-4b7b-add5-1ae158b023b2)
+
+
 ### キーキャップを取り付けて完成！！
+![IMG_20250609_070512](https://github.com/user-attachments/assets/9c1f7ed5-1cad-4634-95e5-fac464a35be8)
+
 
 <br/><br/><br/>
 
 
 > [!TIP]
-> [使い方](https://github.com/ShiniNet/LalaPad#%E4%BD%BF%E3%81%84%E6%96%B9)を参考に、楽しい自作キーボードライフを満喫してください！
+> [使い方](https://github.com/ShiniNet/LalaPadmini#%E4%BD%BF%E3%81%84%E6%96%B9%E6%A9%9F%E8%83%BD)を参考に、楽しい自作キーボードライフを満喫してください！
 
 
 <br/><br/><br/>
@@ -203,7 +211,7 @@ https://youtu.be/duvtfUjUrcw
 
 - DiscordのHelpチャンネルでも過去のトラブルの事例を確認することができますので、是非ご参加ください！ <BR/>
   ※招待コードはパッケージに同梱されています
-- キーボードの使用方法や接続に関するトラブルシューティングは[こちら](https://github.com/ShiniNet/LalaPadmini/tree/main#%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)
+- キーボードの使用方法や接続に関するトラブルシューティングは[こちら](https://github.com/ShiniNet/LalaPadmini#%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)
 
 <br/><br/>
 
