@@ -134,8 +134,8 @@ https://youtu.be/duvtfUjUrcw
 
 - 正しく操作できていればPC側にマイコンのフォルダ(XIAO-SENSE)が表示されるので、先ほどダウンロードした.uf2ファイル（右側には"lalapadmini_right_xxxx.uf2"、左側には"lalapadmini_left_xxxx.uf2"のファイル）を１つずつコピーペーストします。
 - UF2ファイルが書き込まれると自動的にフォルダが閉じられ、マイコンが再起動し緑のランプが点灯します。
-  
-![2025-06-09_07h46_26](https://github.com/user-attachments/assets/7a682c3d-f3f5-4783-9d8a-9b397db1321a)
+
+  ![2025-06-09_08h51_04](https://github.com/user-attachments/assets/9d76e2c9-7947-4eaa-9873-a6acdb5cf8d7)
 
 <br><br>
 
@@ -165,7 +165,11 @@ https://youtu.be/duvtfUjUrcw
 ### 動作確認（バッテリー）
 - 基板にバッテリーを接続し、電源をONにして同様に動作チェックをします。
 - スイッチはマイコン側がON、その反対がOFFです。
-![IMG_20250609_060353](https://github.com/user-attachments/assets/0866e1eb-09d6-46e6-84bf-2b21757d5dc6)
+
+> [!WARNING]
+> バッテリーには極性があります。ソケットに差し込む方向に対して左側がプラス（赤色）になるバッテリーを使用してください。
+
+![2025-06-09_08h56_46](https://github.com/user-attachments/assets/4092aadf-44d8-4a6e-a0fe-415bc1cdb25b)
 
 
 - 動作確認が済んだらトラックパッドとエンコーダーはFFCから外しておきます。
