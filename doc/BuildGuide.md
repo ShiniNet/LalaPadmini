@@ -97,10 +97,11 @@
 
 <br><br>
 
-### ロータリーエンコーダーのはんだづけ
+### ロータリーエンコーダーのはんだづけ＆カバー取り付け
 - PCBの表面からエンコーダーを差し込み、裏面から5か所はんだづけします。
-
+- 向きに注意しつつ、エンコーダーにカバーを取り付けます。
 ![2025-06-09_07h19_16](https://github.com/user-attachments/assets/a1c9e39e-f734-40bf-bf32-6f0499386f0c)
+![2025-06-09_11h29_23](https://github.com/user-attachments/assets/52ef4003-9ba0-4abd-be97-db4b96ea8a25)
 
 <br><br>
 
@@ -178,28 +179,31 @@ https://youtu.be/duvtfUjUrcw
 - 動作確認が済んだらトラックパッドとエンコーダーはFFCから外しておきます。
 ![IMG_20250609_060736](https://github.com/user-attachments/assets/e9d0f5fb-2505-465e-892b-a670d02dfa6b)
 
-<br><br>
+<br>
 
 ## キーボードの組み立て
 ### 基板にトッププレートとキースイッチを装着する
 ![2025-06-09_08h02_00](https://github.com/user-attachments/assets/2a48defb-5fbb-41b1-ad75-2e94f8905eda)
 
 ### キーボードケースの組み立て
+- 言語化しずらい動作が多いので動画にまとめました。
 
-### エンコーダーにカバーを取り付ける
-![2025-06-09_10h52_11](https://github.com/user-attachments/assets/5d588d6b-507f-46ad-81d7-ff362c84e8c3)
+> [!WARNING]
+> マイコンのFPCが大変破けやすくなっております。マイコンへのUSBの抜き差しや、ケースへの脱着時には細心の注意を払うようにしてください。
+
+https://youtu.be/0xm0zzpwDLY
+![Timeline 1_01_01_12_26](https://github.com/user-attachments/assets/02203341-76f9-433d-9d57-2833d6ec0436)
+
+<br><br>
 
 ### トラックパッドとエンコーダーをケースに取り付ける
 ![2025-06-09_11h14_02](https://github.com/user-attachments/assets/f7b1d216-1fd9-4630-85de-60d53af3a4cf)
 ![2025-06-09_11h17_37](https://github.com/user-attachments/assets/c92f77f8-4076-4b7b-add5-1ae158b023b2)
 
+<br>
 
 ### キーキャップを取り付けて完成！！
 ![IMG_20250609_070512](https://github.com/user-attachments/assets/9c1f7ed5-1cad-4634-95e5-fac464a35be8)
-
-
-<br/><br/><br/>
-
 
 > [!TIP]
 > [使い方](https://github.com/ShiniNet/LalaPadmini#%E4%BD%BF%E3%81%84%E6%96%B9%E6%A9%9F%E8%83%BD)を参考に、楽しい自作キーボードライフを満喫してください！
