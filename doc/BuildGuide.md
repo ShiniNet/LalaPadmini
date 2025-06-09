@@ -28,6 +28,8 @@
 |ホットスワップソケット|38個|
 |17mm狭ピッチキーキャップ|38個|
 
+![IMG_20250609_052034](https://github.com/user-attachments/assets/b6d74b11-e01c-47a3-9e3e-ea64f6599414)
+
 <br/><br/><br/>
 ### 別途ご用意いただくもの
 
