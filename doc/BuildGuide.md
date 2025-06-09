@@ -109,16 +109,16 @@
 取り付け方の動画を用意しました。
 
 > [!TIP]
-> - sss
+> - PCBホルダー（もしくはテープで固定する）等でしっかりマイコンを机に固定して作業することをお勧めいたします。
+> - PCB表面の極小端子についてはすでに適量のはんだが盛られているので、フラックスを塗布しFPCを上から重ね、こて先で加熱すると接合されます。
 
-> [!WARNING]
-> - aaa
-> - 
-> - 
-
-  
 https://youtu.be/duvtfUjUrcw
 ![Timeline 1_01_00_24_07](https://github.com/user-attachments/assets/38b665d8-88cf-4b73-ad59-e3f4ff8a0860)
+
+> [!TIP]
+> - テスターをお持ちの場合、特にミスが起きやすいPCB表面端子のブリッジを確認できるので、この時点でトラブルに対処することができます。
+
+![2025-06-09_13h12_09](https://github.com/user-attachments/assets/878d4885-a604-444b-8ed7-14d2e4b0b250)
 
 <br><br>
 
