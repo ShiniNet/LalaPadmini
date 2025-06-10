@@ -35,6 +35,8 @@
 
 ### [ビルドガイド](doc/BuildGuide.md)
 
+### [ファームウェア](https://github.com/ShiniNet/zmk-config-LalaPadmini)
+
 ### 3Dモデルデータのダウンロード
 - [キーボードケース](https://makerworld.com/en/models/1492146-keyboard-cases-for-lalapad-mini#profileId-1559844)
 - [キーキャップ](https://makerworld.com/en/models/1500836-choc-v2-ultra-thin-keycaps-17mm#profileId-1570006)
