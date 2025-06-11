@@ -61,6 +61,7 @@
 > [!TIP]
 > - ESC,TAB,WINは表記のある隣り合ったキーを同時押しすることで出力されます。
 > - 長押しによって下段に小文字で表記されたキーが出力されます。
+> - Backspaceキーは1回単押しでBackspace単発発動、1回目ホールドでレイヤーキー発動、2回目(200ms以内)ホールドでBackspaceが長押しされます。
 
 ![2025-06-10_11h39_30](https://github.com/user-attachments/assets/1c1f5b5e-3717-4fc3-89dd-dbfd15051aed)
 
