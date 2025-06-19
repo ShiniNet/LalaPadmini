@@ -1,5 +1,3 @@
-![2025-06-19_11h08_57](https://github.com/user-attachments/assets/05a4d6e4-7d56-4c07-aac5-f9f058db9f3f)![2025-06-19_11h00_17](https://github.com/user-attachments/assets/e32b33d4-b18b-44d7-b2aa-5ac9f758da3f)# ビルドガイド
-
 > [!TIP]
 > Github右上のリストボタン押下で目次（アウトライン）が表示され、工程全体を把握しやすくなります。
 ![2025-03-06_06h52_32](https://github.com/user-attachments/assets/600b59ae-39ec-4d79-b8a6-39246b630301)
