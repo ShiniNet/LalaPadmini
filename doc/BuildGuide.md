@@ -166,7 +166,7 @@ https://youtu.be/duvtfUjUrcw
 > - 左手側を単独でテストすることはできませんので、右手側を先に起動した状態で左手側を起動しテストしてください。USB-Cケーブルが2本必要です。
 
 > [!TIP]
-> - 動作に問題がある場合、[組立のトラブルシューティング]()を参考にしてください。
+> - 動作に問題がある場合、[組立のトラブルシューティング](https://github.com/ShiniNet/LalaPadmini/blob/main/doc/BuildGuide.md#%E7%B5%84%E7%AB%8B%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)を参考にしてください。
 
 ![IMG_20250609_055740](https://github.com/user-attachments/assets/6c8efc35-237c-43df-820f-b43a30a9b9c0)
 ![2025-06-09_07h55_52](https://github.com/user-attachments/assets/f5ec6655-044c-4837-86f5-0ee3122681bf)
