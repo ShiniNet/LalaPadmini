@@ -134,7 +134,7 @@ https://youtu.be/TO5l979pJ_I
 
 ## 動作確認
 ### マイコンへファームウェアの書き込み
-- GitHUBに公開している[ベースファームウェア（.uf2）](https://github.com/ShiniNet/LalaPadmini/tree/main/firmware)をダウンロードします。
+- GitHUBに公開している[ベースファームウェア（.uf2）](https://github.com/ShiniNet/zmk-config-LalaPadmini/actions/runs/15646261008)をダウンロードします。
 ![2025-06-09_07h39_37](https://github.com/user-attachments/assets/4efdb119-3a3a-4a85-aacf-ba5e69d6e12e)
   
 - マイコンとPCをUSBに接続した状態でマイコンのリセットボタンを2回連打します。
