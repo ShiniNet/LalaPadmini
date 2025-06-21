@@ -34,6 +34,7 @@
 ## スペックなど
 - 外寸 H17mm × W113mm× D84mm
 - 重量 192g（Deepsea Silent Minix38個、500mahバッテリー搭載時）
+- Keycapサイズ H5mm x W16mm x D16mm
 
 ## 製品の詳細
 ### [販売ページ](https://shininet.booth.pm/items/6898829)
