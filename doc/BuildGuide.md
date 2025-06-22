@@ -134,7 +134,7 @@ https://youtu.be/TO5l979pJ_I
 
 ## 動作確認
 ### マイコンへファームウェアの書き込み
-- GitHUBに公開している[ベースファームウェア（.uf2）](https://github.com/ShiniNet/zmk-config-LalaPadmini/actions/runs/15646261008)をダウンロードします。
+- GitHUBに公開している[ベースファームウェア（.uf2）](https://github.com/ShiniNet/zmk-config-LalaPadmini/actions/runs/15801389795)をダウンロードします。
 ![2025-06-20_21h17_36](https://github.com/user-attachments/assets/a66f2527-f904-4949-a6c2-5390771fac53)
 
 
@@ -214,7 +214,8 @@ https://youtu.be/TO5l979pJ_I
 - 言語化しずらい動作が多いので動画にまとめました。
 
 > [!WARNING]
-> マイコンのFPCが大変破けやすくなっております。マイコンへのUSBの抜き差しや、ケースへの脱着時には細心の注意を払うようにしてください。
+> - マイコンのFPCが大変破けやすくなっております。マイコンへのUSBの抜き差しや、ケースへの脱着時には細心の注意を払うようにしてください。
+> - ボトムケースへ基板挿入時、電源スイッチのあるほうから先に挿入し、スイッチとスイッチカバーの位置合わせをしっかり確認しながら挿入してください。
 
 https://youtu.be/0xm0zzpwDLY
 ![Timeline 1_01_01_12_26](https://github.com/user-attachments/assets/02203341-76f9-433d-9d57-2833d6ec0436)
