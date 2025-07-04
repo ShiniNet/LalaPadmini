@@ -311,3 +311,6 @@ https://youtu.be/0xm0zzpwDLY
 - PC側の物理配列がUSモードになっているか確認
 - 割り当てしているキーコードを変更して動作するか確認
 
+### なんかキーの挙動が全体的におかしい
+- LalaPad無印のファームウェアを間違えて導入していませんか？
+- [こちら](https://github.com/ShiniNet/zmk-config-LalaPadmini/actions/runs/15801389795)からビルド済みファームウェアを取得して書き込んでみてください。
