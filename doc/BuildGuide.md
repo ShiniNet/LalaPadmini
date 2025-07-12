@@ -113,7 +113,7 @@
 > - PCBホルダー（もしくはテープで固定する）等でしっかりマイコンを机に固定して作業することをお勧めいたします。
 > - マイコン表面の極小端子についてはすでに適量のはんだが盛られているので、フラックスを塗布しFPCを上から重ね、こて先で加熱すると接合されます。
 
-https://youtu.be/TO5l979pJ_I
+https://youtu.be/VcIR46JQAl4
 ![Timeline 1_01_00_24_07](https://github.com/user-attachments/assets/38b665d8-88cf-4b73-ad59-e3f4ff8a0860)
 
 > [!TIP]
