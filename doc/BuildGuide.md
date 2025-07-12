@@ -146,7 +146,7 @@ https://youtu.be/VcIR46JQAl4
 
 ## 動作確認
 ### マイコンへファームウェアの書き込み
-- GitHUBに公開している[ベースファームウェア（.uf2）](https://github.com/ShiniNet/zmk-config-LalaPadmini/actions/runs/15801389795)をダウンロードします。
+- GitHUBに公開している[ベースファームウェア（.uf2）](https://github.com/ShiniNet/zmk-config-LalaPadmini/actions/runs/16240058127)をダウンロードします。
 ![2025-06-20_21h17_36](https://github.com/user-attachments/assets/a66f2527-f904-4949-a6c2-5390771fac53)
 
 
