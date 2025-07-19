@@ -316,4 +316,4 @@ https://youtu.be/0xm0zzpwDLY
 
 ### なんかキーの挙動が全体的におかしい
 - LalaPad無印のファームウェアを間違えて導入していませんか？
-- [こちら](https://github.com/ShiniNet/zmk-config-LalaPadmini/actions/runs/15801389795)からビルド済みファームウェアを取得して書き込んでみてください。
+- [こちら](https://github.com/ShiniNet/zmk-config-LalaPadmini/actions/runs/16240058127)からビルド済みファームウェアを取得して書き込んでみてください。
