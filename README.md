@@ -53,6 +53,8 @@
 ## SIG認証について
 - 本商品は使用できる状態の無線モジュールを含まない自作キットですので、基本的には認証の対象外となります。  
 
+## メルカリ等での転売品について
+- [LalaPadシリーズ 転売に関するガイドライン](https://github.com/ShiniNet/LalaPad/blob/main/doc/ResaleGuideline.md)
 <br/><br/>
   
 ## 使い方・機能
