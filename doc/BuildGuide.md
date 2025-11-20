@@ -36,7 +36,7 @@
 
 | 必須 | 名前 | 数 | 備考 |参考商品|
 |:-|:-|---:|:-|:-|
-|★|Seeed Studio XIAO nRF52840 |2個|マイコン本体。安価で入手性が高く、通信も安定しています。|[秋月電子](https://akizukidenshi.com/catalog/g/g117341/)|
+|★|Seeed Studio XIAO nRF52840 |2個|マイコン本体。安価で入手性が高く、通信も安定しています。|[TALPKEYBOARD](https://shop.talpkeyboard.com/products/seeed-studio-xiao-nrf52840-xiao-ble) [秋月電子](https://akizukidenshi.com/catalog/g/g117341/)|
 |★|Kailh Choc V2互換スイッチ|38個|個人的にDeepSeaMiniがおすすめ。Lofreeなども適合。ChocV1も一応刺さります。|[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/Kailh-Choc-V2%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81) [Kailhswitch](https://kailhswitch.net/products/kailh-deep-sea-silent-min-low-profile-keyboard-switch)|
 |★|3.7Vリチウムポリマーバッテリー|2個|コネクタピッチ1.25mm、外寸厚さ6.3mm以下、長さ41mm以下、幅20mm以下。 型番としては602040もしくは602035タイプが適合します。容量は300～500mahの製品を確認済み）|[Amazon](https://www.amazon.co.jp/dp/B0D5CJLPM9/)|
 |★|USB-Cケーブル|2本|充電、ファームウェア書き込み用。何百回と抜き差しする事になるのでマグネット式がおすすめ。||
